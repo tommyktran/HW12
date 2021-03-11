@@ -1,0 +1,13 @@
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.exe
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.deps.json
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.runtimeconfig.json
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.runtimeconfig.dev.json
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.dll
+C:\Users\tommy\source\repos\12b\12b\bin\Debug\netcoreapp3.1\12b.pdb
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.csprojAssemblyReference.cache
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.AssemblyInfoInputs.cache
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.AssemblyInfo.cs
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.csproj.CoreCompileInputs.cache
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.dll
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.pdb
+C:\Users\tommy\source\repos\12b\12b\obj\Debug\netcoreapp3.1\12b.genruntimeconfig.cache
